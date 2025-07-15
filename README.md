@@ -44,6 +44,8 @@ echo ".env" >> .gitignore
 
 ### macOS / Linux
 
+Make sure you're in the correct directory. For example, if you were running it from your desktop you'd first type: CD ~/desktop/
+
 ```bash
 node Unfollower.js
 # or
