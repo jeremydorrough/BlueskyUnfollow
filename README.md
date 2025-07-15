@@ -1,4 +1,4 @@
-# Bluesky Unfollower Scripts
+# Ultimate Bluesky Unfollower Scripts
 
 This project includes two Node.js scripts for cleaning up your Bluesky social graph:
 
