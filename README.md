@@ -7,7 +7,7 @@ This project includes two Node.js scripts for cleaning up your Bluesky social gr
 - `Unfollower.js` – Unfollows every account your handle is following and cleans up orphaned follow records.
 - `Unfollower for Banned and Deleted Accounts.js` – Directly wipes follow records from your repo, including those linked to banned or deleted accounts that the standard API can't unfollow.
 
-- It also has a .env file whick stores your credentials. Note it may be a hidden file once downloaded (on Mac you press Shift+Command+Period to reveal hidden files in a folder).
+- It also has a .env file which stores your credentials. Note it may be a hidden file once downloaded (on Mac you press Shift+Command+Period to reveal hidden files in a folder).
 
 ---
 
@@ -53,6 +53,8 @@ node "Unfollower for Banned and Deleted Accounts.js"
 ```
 
 ### Windows (CMD or PowerShell)
+
+Make sure you're in the correct directory. I use MacOS, so on Mac I'd do that by first executing this: CD ~/desktop/ -- you'll have to figure that out for yourself on PC.
 
 ```cmd
 node Unfollower.js
