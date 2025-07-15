@@ -78,4 +78,4 @@ This is especially useful for cleaning up corrupted follow graphs or accounts th
 
 ## ⚠️ Use at Your Own Risk
 
-These scripts perform **bulk delete operations** on your account's follow graph. Review the code before running and make sure you understand what it does.
+These scripts perform **bulk delete operations** on your account's follow graph. Review the code before running and make sure you understand what it does. Right now, you'll hit a rate limit imposed by Bluesky if you unfollow more than around 5,000 users a day (I'm not sure of the exact number) and  they'll freeze your account for 24 hours if you pass it.
