@@ -44,7 +44,7 @@ echo ".env" >> .gitignore
 
 ### macOS / Linux
 
-Make sure you're in the correct directory. For example, if you were running it from your desktop you'd first type: CD ~/desktop/
+Make sure you're in the correct directory and have the correct credentials in the .env file. For example, if you were running it from your desktop you'd first type: CD ~/desktop/
 
 ```bash
 node Unfollower.js
@@ -54,7 +54,7 @@ node "Unfollower for Banned and Deleted Accounts.js"
 
 ### Windows (CMD or PowerShell)
 
-Make sure you're in the correct directory. I use MacOS, so on Mac I'd do that by first executing this: CD ~/desktop/ -- you'll have to figure that out for yourself on PC.
+Make sure you're in the correct directory and have the correct credentials in the .env file. I use MacOS, so on Mac I'd do that by first executing this: CD ~/desktop/ -- you'll have to figure that out for yourself on PC.
 
 ```cmd
 node Unfollower.js
