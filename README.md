@@ -1,6 +1,6 @@
 # Ultimate Bluesky Unfollower Scripts
 
-Bluesky doesn’t provide an official way to mass unfollow accounts or clean up broken follow records—especially those tied to banned, deleted, or orphaned users. Over time, your follow graph can become cluttered with dead ends or inaccessible accounts that you can’t manually remove through the app.
+Bluesky doesn’t provide an official way to batch unfollow accounts or clean up broken follow records—especially those tied to banned, deleted, or orphaned users. Over time, your follow graph can become cluttered with dead ends or inaccessible accounts that you can’t manually remove through the app.
 
 This project includes two Node.js scripts for cleaning up your Bluesky social graph:
 
