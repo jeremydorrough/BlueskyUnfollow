@@ -23,23 +23,6 @@ npm install dotenv @atproto/api
 
 ---
 
-## 🔐 Setup Your Credentials
-
-1. Create a `.env` file in the project root:
-
-```
-BSKYHANDLE=yourhandle.bsky.social
-BSKYPASS=yourpassword
-```
-
-2. Add `.env` to your `.gitignore` to avoid exposing your credentials:
-
-```bash
-echo ".env" >> .gitignore
-```
-
----
-
 ## ▶️ How to Run
 
 ### macOS / Linux
